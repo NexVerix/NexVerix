@@ -81,8 +81,8 @@ Lightweight backend services built using Express.js for learning and expanding b
 ## 📫 Connect
 
 - GitHub: @NexVerix
-- Portfolio: https://mohammad4.tiiny.site/
-- Email: agrawalkajal396@gmail.com
+- Portfolio: https://nexverix.tiiny.site/
+- Email: mdaziz.nexverix@gmail.com
 
 ---
 

@@ -16,25 +16,25 @@ My focus is on building real-world applications with clean architecture, efficie
 
 ## 🧠 What I Build
 
-- 🔧 Scalable backend systems with **Django & Django REST Framework**
-- 🌐 Full-stack web applications with clean architecture
-- ⚡ RESTful API design and integration
-- 🎨 Responsive frontend interfaces using HTML, CSS, JavaScript
-- 🗄️ Database design and management (SQL-based systems)
-- 🚀 Production-ready applications with deployment experience
+- Scalable backend systems with **Django & Django REST Framework**
+- Full-stack web applications with clean architecture
+- RESTful API design and integration
+- Responsive frontend interfaces using HTML, CSS, JavaScript
+- Database design and management (SQL-based systems)
+- Production-ready applications with deployment experience
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🟣 Primary Stack (Core Focus)
+### Primary Stack (Core Focus)
 - Python (Django, Django REST Framework)
 - PostgreSQL / SQLite
 - REST APIs
 - HTML, CSS, JavaScript
 - Git & GitHub
 
-### 🔵 Secondary Stack (Side Development)
+### Secondary Stack (Side Development)
 - Node.js
 - Express.js
 - MongoDB (learning & experimentation)
@@ -44,16 +44,16 @@ My focus is on building real-world applications with clean architecture, efficie
 
 ## 📂 Featured Projects
 
-### 🛒 E-Commerce Platform
+### E-Commerce Platform
 Full-stack Django-based e-commerce application with authentication, cart system, and API integrations for real-world functionality.
 
-### 📝 Django Blog Platform
+### Django Blog Platform
 A modern, fully functional Django blogging platform with dynamic API integrations. Users can register, login, create, edit, delete, and search posts. Home page displays live news, weather, and trending GIFs, giving your blog a dynamic, engaging experience.
 
 ### Django Authentication & Website Project
 A Django-based website featuring authentication (signup, login, logout), protected pages, account management, and a clean UI with reusable templates and static assets.
 
-### 🔌 Node.js API Projects
+### Node.js API Projects
 Lightweight backend services built using Express.js for learning and expanding backend capabilities.
 
 ---
